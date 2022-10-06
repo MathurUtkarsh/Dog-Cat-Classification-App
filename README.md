@@ -20,3 +20,7 @@ Dependencies :
  
 You can find all requirments in requirments.txt file. It's important that you should first download or have all of them.
 
+Architecture :
+ I have created this project for public contribution so as of now I had added only One Convolutional Layer. 
+ 
+ I welcome contrbutors to visit this repo and make updation in architecture and any contribution helpful is accepted.
