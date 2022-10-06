@@ -4,7 +4,7 @@ Problem statement :
 In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training and Testing is 15000.
 
 Dataset : https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda 
-- The dataset is taken from kaggle.
+ The dataset is taken from kaggle.
 
 Dependencies :
 
