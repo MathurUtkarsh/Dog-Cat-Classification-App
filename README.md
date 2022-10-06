@@ -26,7 +26,7 @@ Architecture :
  
  I welcome contrbutors to visit this repo and make updation in architecture and any contribution helpful is accepted.
  
-** Note** -  It is possible to Achieve more accuracy on this dataset using deeper network and fine tuning of network parameters for training. You can download this trained model and Play with it.
+**Note** -  It is possible to Achieve more accuracy on this dataset using deeper network and fine tuning of network parameters for training. You can download this trained model and Play with it.
  
 How to run my app :
 
@@ -36,6 +36,6 @@ How to run my app :
 * Add the dataset address from your local system in cnn.py file.
 * Go to terminal and run clientApp.py in it's respective location.
 
-**Note **- I have created my own function for encoding and decoding image into base64 present in utkarsh_utilis. You can use them in this project and in your other projects for deployment stuff.
+**Note**- I have created my own function for encoding and decoding image into base64 present in utkarsh_utilis. You can use them in this project and in your other projects for deployment stuff.
  
  
