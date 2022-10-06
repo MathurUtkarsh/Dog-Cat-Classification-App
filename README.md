@@ -5,3 +5,17 @@ In this Section we are implementing Convolution Neural Network(CNN) Classifier f
 
 Dataset : 
 The dataset is taken from kaggle. You can find it here - https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda
+
+Dependencies :
+
+* Jupyter notebook
+* Tensorflow 1.10
+* Python 3.6
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Pandas
+* Numpy
+ 
+You can find all requirments in requirments.txt file. It's important that you should first download or have all of them.
+
