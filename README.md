@@ -1,13 +1,13 @@
 # Dog_Cat_Classification_Deployed
 
-Problem statement :
+## Problem statement :
 In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training and Testing is 15000.
 
-Dataset : The dataset is taken from kaggle.
+## Dataset : The dataset is taken from kaggle.
 
 Link to the dataset - https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda
 
-Dependencies :
+## Dependencies :
 
 * Jupyter notebook
 * Tensorflow 1.10
@@ -20,7 +20,7 @@ Dependencies :
  
 You can find all requirments in requirments.txt file. It's important that you should first download or have all of them.
 
-Architecture :
+## Architecture :
  
  I have created this project for public contribution so as of now I had added only One Convolutional Layer. 
  
@@ -28,7 +28,7 @@ Architecture :
  
 **Note** -  It is possible to Achieve more accuracy on this dataset using deeper network and fine tuning of network parameters for training. You can download this trained model and Play with it.
  
-How to run my app :
+## How to run my app :
 
 * Fork this repo in your local system.
 * Install requirements.txt in your system.
