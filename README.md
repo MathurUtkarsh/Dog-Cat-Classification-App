@@ -1,4 +1,4 @@
-# Dog_Cat_Classification_Deployed
+# Dog Cat Classification Deployed
 
 ## Problem statement :
 In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training and Testing is 15000.
